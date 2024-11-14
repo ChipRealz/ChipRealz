@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Nest.js<br>🎯 Goals: Developer</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Nest.js<br>🎯 Goals: Junior Developer</p>
 
 ###
 
